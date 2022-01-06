@@ -2,7 +2,7 @@
 
 ## 🌱 currently learning - 관심 분야
 - AUTOSAR Platform
-- Parallel Computing
+- High Performance Computing
 - Linux Kernel
 - Data Preprocessing
 - Cloud
