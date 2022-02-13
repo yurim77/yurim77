@@ -6,7 +6,7 @@
 - Data Preprocessing
 - AUTOSAR Platform, Real Time Kernel, Embedded System
 - Linux Kernel, Parallel Processing
-- Cloud
+- AWS, Azure
 
 ## 🏃‍♀️ work experiences - 경험 사항
 - **Jul ~ Aug 2021 ETRI(Electronics and Telecommunications Research Institute), Intern / 21.07 ~ 21.08, 한국전자통신연구원, 연구 연수생**
